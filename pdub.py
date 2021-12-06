@@ -1,4 +1,5 @@
 """Decryption only, reads from e_passwords.txt
+Must install libraries from requirements.txt
 """
 
 import re
